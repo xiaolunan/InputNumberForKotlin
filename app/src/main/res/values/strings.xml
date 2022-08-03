@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InputNumberForKotlin</string>
+    <string name="less_btn">-</string>
+    <string name="plus_btn">+</string>
+</resources>
